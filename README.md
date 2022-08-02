@@ -1,0 +1,2 @@
+# pycalc
+Commandline python calculator
